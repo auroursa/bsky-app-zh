@@ -2991,8 +2991,8 @@ msgstr ""
 
 #: src/screens/Messages/Settings.tsx:83
 #: src/screens/Messages/Settings.tsx:86
-#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:153
-#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:167
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:155
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:169
 msgid "Everyone"
 msgstr ""
 
@@ -3374,6 +3374,10 @@ msgstr ""
 msgid "Filter search by language (currently: {currentLanguageLabel})"
 msgstr ""
 
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:149
+msgid "Filter who you receive notifications from"
+msgstr ""
+
 #: src/screens/Onboarding/StepFinished.tsx:314
 msgid "Finalizing"
 msgstr ""
@@ -3587,6 +3591,10 @@ msgstr ""
 #: src/components/moderation/ReportDialog/utils/useReportOptions.ts:54
 #: src/lib/moderation/useReportOptions.ts:54
 msgid "Frequently Posts Unwanted Content"
+msgstr ""
+
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:145
+msgid "From"
 msgstr ""
 
 #: src/screens/Hashtag.tsx:120
@@ -5715,8 +5723,8 @@ msgstr ""
 msgid "People following @{0}"
 msgstr ""
 
-#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:171
-#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:185
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:173
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:187
 msgid "People I follow"
 msgstr ""
 
@@ -7146,6 +7154,10 @@ msgstr ""
 
 #: src/screens/Settings/LanguageSettings.tsx:124
 msgid "Select your preferred language for translations in your feed."
+msgstr ""
+
+#: src/screens/Settings/NotificationSettings/components/PreferenceControls.tsx:101
+msgid "Select your preferred notification channels"
 msgstr ""
 
 #: src/view/com/util/forms/DropdownButton.tsx:297
